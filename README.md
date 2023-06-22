@@ -1,4 +1,4 @@
-# DongHae Frontend Dev Container
+# DongHae API Dev Container
 
 This project is designed to provide a container-based development environment for the ongoing development of the DongHae Frontend. It is implemented with Docker and Dev Container CLI, allowing you to easily set up your development environment and get started on coding.
 
