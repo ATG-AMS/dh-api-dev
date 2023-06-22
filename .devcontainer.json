@@ -1,0 +1,37 @@
+{
+    "name": "ams-frontend-dev",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [8080],
+    "appPort": 8080,
+    "workspaceFolder": "/app/donghae-front",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "codezombiech.gitignore",
+                "donjayamanne.git-extension-pack",
+                "donjayamanne.githistory",
+                "eamodio.gitlens",
+                "esbenp.prettier-vscode",
+                "formulahendry.auto-rename-tag",
+                "github.github-vscode-theme",
+                "gruntfuggly.todo-tree",
+                "intellsmi.comment-translate",
+                "mechatroner.rainbow-csv",
+                "mhutchie.git-graph",
+                "ms-ceintl.vscode-language-pack-ko",
+                "ms-vscode.live-server",
+                "ms-vsliveshare.vsliveshare",
+                "oderwat.indent-rainbow",
+                "ryanluker.vscode-coverage-gutters",
+                "shardulm94.trailing-spaces",
+                "streetsidesoftware.code-spell-checker",
+                "visualstudioexptteam.intellicode-api-usage-examples",
+                "vscjava.vscode-java-pack",
+                "redhat.fabric8-analytics",
+                "vmware.vscode-boot-dev-pack"
+            ]
+        }
+    }
+}
