@@ -1,11 +1,11 @@
 {
-    "name": "ams-frontend-dev",
+    "name": "dh-api-dev",
     "build": {
         "dockerfile": "Dockerfile"
     },
     "forwardPorts": [8080],
     "appPort": 8080,
-    "workspaceFolder": "/app/donghae-front",
+    "workspaceFolder": "/app/donghae-api-server",
     "customizations": {
         "vscode": {
             "extensions": [
